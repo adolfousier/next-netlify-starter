@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Mint Vetures demo app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by clicking on the bot icon.
         </p>
       </main>
 
