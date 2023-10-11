@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
-        <link rel="icon" href="/MintVentureslogo.png" />
+        <link rel="icon" href="/MV_favicon.png" />
       </Head>
 
       <main>
