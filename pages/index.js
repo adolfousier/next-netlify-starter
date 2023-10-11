@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Mint Ventures AI grammar bot demo!" />
         <p className="description">
-          Get started by clicking on the bot icon.
+          Too, two or to? Use our chatbot as a personal editor to double-check your grammar. Get started by clicking on the bot icon.
         </p>
       </main>
 
