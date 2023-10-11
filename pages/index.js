@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Mint Ventures XYZ!</title>
+        <title>Mint Ventures AI Demo!</title>
         <link rel="icon" href="/MV_favicon.svg" />
       </Head>
 
