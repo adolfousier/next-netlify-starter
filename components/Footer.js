@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/Mint_Ventures_logo.png" alt="Mint Ventures Logo" className={styles.logo} />
+        <img src="/mint_ventures_small.png" alt="Mint Ventures Logo" className={styles.logo} />
     
       </footer>
     </>
