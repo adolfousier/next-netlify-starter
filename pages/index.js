@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Mint Ventures demo app!" />
+        <Header title="Welcome to Mint Ventures AI grammar bot demo!" />
         <p className="description">
           Get started by clicking on the bot icon.
         </p>
