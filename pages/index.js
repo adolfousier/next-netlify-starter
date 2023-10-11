@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Mint Ventures XYZ!</title>
-        <link rel="icon" href="/MV_favicon.png" />
+        <link rel="icon" href="/MV_favicon.svg" />
       </Head>
 
       <main>
