@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Mint Ventures AI grammar bot demo!" />
+        <Header title="Welcome to Mint Ventures AI Grammar Checker Demo!" />
         <p className="description">
           Too, two or to? Use our chatbot as a personal editor to double-check your grammar. Get started by clicking on the bot icon.
         </p>
