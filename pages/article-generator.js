@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Mint Ventures AI Article Generator Demo!" />
         <p className="description">
-          Too, two or to? Use our chatbot as a personal editor to double-check your grammar. Get started by clicking on the bot icon.
+          Give the article generator some details and it will write a 400-word article for you. Get started by clicking on the bot icon.
         </p>
       </main>
 
